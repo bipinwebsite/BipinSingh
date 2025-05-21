@@ -84,6 +84,7 @@
         <h2>Social Media</h2> |
         <a href="https://www.instagram.com/ibipinks" target="_blank">Instagram</a> |
         <a href="https://www.facebook.com/share/1E6QoZU8FD/" target="_blank">Facebook</a> |
+	<a href="https://www.facebook.com/profile.php?id=61552853191321&mibextid=ZbWKwL" target="_blank">Facebook Page</a> |
         <a href="https://twitter.com/BIPINKUMAR30515" target="_blank">Twitter</a> |
         <a href="https://www.youtube.com/@BipinKumarSingh-j4p" target="_blank">YouTube</a> |
     </section>
