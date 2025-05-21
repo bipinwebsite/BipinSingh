@@ -95,7 +95,7 @@
     <h2>Donate Karein</h2>
     <p>Support ke liye aap mujhe donation bhej sakte hain:</p>
     <p><strong>UPI ID:</strong> bipinkumaronline9095@okicici</p>
-    <p><strong>Mobile No:</strong> 8210716951</p>
+    <p><strong>UPI No:</strong> 8210716951</p>
     <p><strong>Qr Code:</strong></p> <img src="upi.jpg" alt="UPI QR" style="max-width: 200px; margin-top: 10px;">
 </div>
  </section> 
